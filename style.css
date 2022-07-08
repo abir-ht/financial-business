@@ -1,0 +1,13 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.top-banner {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ul {
+    list-style: none;
+}
